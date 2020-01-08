@@ -1,1 +1,5 @@
-<body style="background-image:url(img/background_photo.jpg)">
+
+body{
+       background-image: url(img/background_photo.jpg);
+       background-size: cover;
+}
